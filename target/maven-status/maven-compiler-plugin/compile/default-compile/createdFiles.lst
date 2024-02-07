@@ -1,0 +1,7 @@
+com/example/accessingdatamysql/repository/UserRepository.class
+com/example/accessingdatamysql/MarioApplication.class
+com/example/accessingdatamysql/entity/User.class
+com/example/accessingdatamysql/controllers/MainController.class
+com/example/accessingdatamysql/entity/Movie.class
+com/example/accessingdatamysql/repository/MovieRepository.class
+com/example/accessingdatamysql/controllers/MoviesController.class

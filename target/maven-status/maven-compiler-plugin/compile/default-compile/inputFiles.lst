@@ -1,0 +1,7 @@
+/home/neo/Documents/workspace-spring-tool-suite-4-4.20.1.RELEASE/mario-spring-boot-app/src/main/java/com/example/accessingdatamysql/entity/User.java
+/home/neo/Documents/workspace-spring-tool-suite-4-4.20.1.RELEASE/mario-spring-boot-app/src/main/java/com/example/accessingdatamysql/repository/MovieRepository.java
+/home/neo/Documents/workspace-spring-tool-suite-4-4.20.1.RELEASE/mario-spring-boot-app/src/main/java/com/example/accessingdatamysql/controllers/MoviesController.java
+/home/neo/Documents/workspace-spring-tool-suite-4-4.20.1.RELEASE/mario-spring-boot-app/src/main/java/com/example/accessingdatamysql/MarioApplication.java
+/home/neo/Documents/workspace-spring-tool-suite-4-4.20.1.RELEASE/mario-spring-boot-app/src/main/java/com/example/accessingdatamysql/entity/Movie.java
+/home/neo/Documents/workspace-spring-tool-suite-4-4.20.1.RELEASE/mario-spring-boot-app/src/main/java/com/example/accessingdatamysql/repository/UserRepository.java
+/home/neo/Documents/workspace-spring-tool-suite-4-4.20.1.RELEASE/mario-spring-boot-app/src/main/java/com/example/accessingdatamysql/controllers/MainController.java
